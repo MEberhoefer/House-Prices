@@ -521,7 +521,10 @@ lm_res %>%
 
 #############################################################
 #xgBoost
-
+library(caret)
+library(plyr)
+library(xgboost)
+library(Metrics)
 house_train <- training(house_split)
 house_test <- testing(house_split)
 
