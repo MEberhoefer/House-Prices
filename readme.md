@@ -1,3 +1,3 @@
-# Housing prices
+# House prices
 
 Kaggle competition
